@@ -1,0 +1,16 @@
+h1 {
+	font-size: 50px;
+}
+
+.message {
+	font-size: 18px;
+}
+
+body {
+	font-family: Courier;
+	text-align: center;
+	width: 700px;
+	margin: auto;
+	margin-top: 10px;
+	background-color: pink;
+}
